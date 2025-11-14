@@ -12,7 +12,7 @@ This app fetches user data from the JSONPlaceholder API, stores it locally in a 
 
 | User List (Online) | User List (Offline) | Search |
 | :---: |:---:|:---:|
-| _Screenshot of the user list with data loaded from the API._ | _Screenshot of the user list showing cached data when offline._ | _Screenshot of the search functionality in action._ |
+| ![screenshot-online](Screenshots/screenshot-online.png) | ![screenshot-offline](Screenshots/screenshot-offline.png) | ![screenshot-search](Screenshots/screenshot-search.png) |
 
 ## Core Functionalities
 
